@@ -1,0 +1,3 @@
+model/dao/FridgeDAO.class
+model/entity/Fridge.class
+model/dao/AbstractDAO.class
